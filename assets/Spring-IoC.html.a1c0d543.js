@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7a512391","path":"/docs/spring/Spring-IoC/Spring-IoC.html","title":"Spring-IoC","lang":"en-US","frontmatter":{"title":"Spring-IoC"},"excerpt":"","headers":[{"level":2,"title":"Spring-IoC","slug":"spring-ioc-1","children":[]}],"git":{},"filePathRelative":"docs/spring/Spring-IoC/Spring-IoC.md"}');export{e as data};
